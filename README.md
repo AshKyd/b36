@@ -37,7 +37,7 @@ As a case study, 8 levels from my js13k entry compressed from 752 bytes to 549 b
 Why/how to do?!
 ---------------
 
-To use it, simply:
+To use it:
 
 ````
 var codec = require('b36');
